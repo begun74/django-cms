@@ -1,5 +1,5 @@
 ##########
-django CMS
+django CMS 
 ##########
 .. image:: https://travis-ci.org/divio/django-cms.svg?branch=develop
     :target: https://travis-ci.org/divio/django-cms
